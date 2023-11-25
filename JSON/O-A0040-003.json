@@ -1,0 +1,35 @@
+{
+ "cwbopendata": {
+  "@xmlns": "urn:cwb:gov:tw:cwbcommon:0.1",
+  "identifier": "c56615e4-826f-11eb-9e2d-d89d67177004",
+  "sender": "weather@cwb.gov.tw",
+  "sent": "2021-03-11T21:43:32+08:00",
+  "status": "Actual",
+  "msgType": "Issue",
+  "scope": "Public",
+  "dataid": "A0040-003",
+  "dataset": {
+   "datasetinfo": {
+    "datasetDescription": "地理資訊",
+    "parameterset": [
+     {
+      "parameterName": "經度範圍",
+      "parameterValue": "119.188 - 123.578"
+     },
+     {
+      "parameterName": "緯度範圍",
+      "parameterValue": "21.523 - 25.918"
+     }
+    ]
+   },
+   "time": {
+    "obsTime": "2021-03-11T21:30:00+08:00"
+   },
+   "resource": {
+    "resourceDesc": "去背景小間距日累積雨量圖",
+    "mimeType": "image/png",
+    "uri": "https://opendata.cwb.gov.tw/fileapi/opendata/DIV2/O-A0040-003.kmz"
+   }
+  }
+ }
+}
